@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20190214174527" modified="D:20190214174527"/>
+<info created="D:20190214174527" modified="D:20190214175602"/>
 <bitmap id="1" width="500" height="295" length="12352" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrtncuO28a2hvUAGx54O4ndEqW2MzrI0E92gEYD2SPCbV3JIiklDqBX8BOct9mzIEiQ2C2R
 YnukUyz1Ra0LxVp14UX/ByIwEqdbKpJ/rVrX9RoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -802,9 +802,55 @@ h
 </ipestyle>
 <page>
 <layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
 <view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
+<view layers="alpha eta" active="eta"/>
 <text layer="alpha" matrix="1 0 0 1 -16 -16" transformations="translations" pos="48 784" stroke="navy" type="minipage" width="1776" height="70.896" depth="31.12" valign="top" size="Large">VoIP for Everyone: The Asterisk PBX</text>
 <text matrix="1 0 0 1 0 -64" transformations="translations" pos="32 688" stroke="black" type="minipage" width="1056" height="35.748" depth="5.76" valign="top">Fabian Feitsch</text>
-<image matrix="0.918201 -0.396115 0.396115 0.918201 399.6 339.178" rect="678.031 287.518 1177.97 582.482" bitmap="1"/>
+<image matrix="0.918201 -0.396115 0.396115 0.918201 127.6 307.178" rect="678.031 287.518 1177.97 582.482" bitmap="1"/>
+<path layer="beta" fill="white" opacity="75%">
+288 800 m
+288 656 l
+1568 656 l
+1568 800 l
+h
+</path>
+<path fill="white" opacity="75%">
+16 656 m
+16 560 l
+512 560 l
+512 656 l
+h
+</path>
+<path matrix="1 0 0 1 -272 -32" fill="white" opacity="75%">
+1264 600 m
+1144 336 l
+1600 144 l
+1712 408 l
+h
+</path>
+<path layer="gamma" stroke="black" pen="ultrafat" arrow="normal/normal">
+72 352 m
+-16 568
+24 680 c
+</path>
+<text transformations="translations" pos="96 352" stroke="black" type="minipage" width="360" height="35.748" depth="5.76" valign="top">\textbf{V}oice \textbf{o}ver \textbf{IP}</text>
+<text layer="delta" transformations="translations" pos="96 288" stroke="black" type="minipage" width="600" height="113.196" depth="83.4" valign="top"> = umbrella term for many concepts and technologies</text>
+<path layer="epsilon" stroke="black" pen="ultrafat" arrow="normal/normal">
+1632 456 m
+1672 648 l
+</path>
+<text transformations="translations" pos="1400 416" stroke="black" type="minipage" width="408" height="77.346" depth="47.52" valign="top">\textbf{P}rivate \textbf{B}ranch \textbf{E}xchange</text>
+<text layer="zeta" transformations="translations" pos="1400 272" stroke="black" type="minipage" width="432" height="41.556" depth="11.58" valign="top">= Telefonanlage</text>
 </page>
 </ipe>
