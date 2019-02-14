@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20190214174527" modified="D:20190214175602"/>
+<info created="D:20190214174527" modified="D:20190214181326"/>
 <bitmap id="1" width="500" height="295" length="12352" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrtncuO28a2hvUAGx54O4ndEqW2MzrI0E92gEYD2SPCbV3JIiklDqBX8BOct9mzIEiQ2C2R
 YnukUyz1Ra0LxVp14UX/ByIwEqdbKpJ/rVrX9RoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -852,5 +852,39 @@ h
 </path>
 <text transformations="translations" pos="1400 416" stroke="black" type="minipage" width="408" height="77.346" depth="47.52" valign="top">\textbf{P}rivate \textbf{B}ranch \textbf{E}xchange</text>
 <text layer="zeta" transformations="translations" pos="1400 272" stroke="black" type="minipage" width="432" height="41.556" depth="11.58" valign="top">= Telefonanlage</text>
+</page>
+<page title="Hands On: A Wedding Proposal" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
+<layer name="theta"/>
+<layer name="iota"/>
+<layer name="kappa"/>
+<layer name="lambda"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<text layer="beta" transformations="translations" pos="32 832" stroke="black" type="minipage" width="1792" height="41.556" depth="11.58" valign="top">Upon dialing &quot;55&quot; the caller should hear a wedding proposal.</text>
+<text layer="gamma" matrix="1 0 0 1 0 -40" transformations="translations" pos="32 768" stroke="black" type="minipage" width="1792" height="41.556" depth="11.58" valign="top">We insert the following rule in a configuration file of Asterisk:</text>
+<text layer="delta" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
+<text layer="epsilon" matrix="1 0 0 1 0 -64" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="39.852" depth="9.96" valign="top">\verb|exten=&gt;30,1,Answer()|</text>
+<text layer="zeta" matrix="1 0 0 1 0 -128" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Read(input,marryme,1)|</text>
+<text layer="eta" matrix="1 0 0 1 0 -200" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,GotoIf($[${input}=1],wedding,bridge)|</text>
+<text layer="theta" matrix="1 0 0 1 0 -272" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(wedding),Playback(thank-you-cooperation)|</text>
+<text layer="iota" matrix="1 0 0 1 0 -344" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
+<text layer="kappa" matrix="1 0 0 1 0 -416" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(bridge),Playback(sorry)|</text>
+<text layer="lambda" matrix="1 0 0 1 0 -496" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
 </page>
 </ipe>
