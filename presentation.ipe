@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20190214174527" modified="D:20190214181326"/>
+<info created="D:20190214174527" modified="D:20190215101149"/>
 <bitmap id="1" width="500" height="295" length="12352" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrtncuO28a2hvUAGx54O4ndEqW2MzrI0E92gEYD2SPCbV3JIiklDqBX8BOct9mzIEiQ2C2R
 YnukUyz1Ra0LxVp14UX/ByIwEqdbKpJ/rVrX9RoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -886,5 +886,112 @@ h
 <text layer="iota" matrix="1 0 0 1 0 -344" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
 <text layer="kappa" matrix="1 0 0 1 0 -416" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(bridge),Playback(sorry)|</text>
 <text layer="lambda" matrix="1 0 0 1 0 -496" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
+</page>
+<page title="Configuration of Asterisk" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
+<layer name="theta"/>
+<layer name="iota"/>
+<layer name="kappa"/>
+<layer name="lambda"/>
+<layer name="mu"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
+<text layer="beta" transformations="translations" pos="16 848" stroke="black" type="minipage" width="1824" height="44.838" depth="14.94" valign="top">Configuration is done (mostly) with dosini-files.</text>
+<text layer="gamma" transformations="translations" pos="16 768" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">My production system has approximately 77 conf-files.</text>
+<text layer="delta" matrix="1 0 0 1 0 -32" transformations="translations" pos="16 704" stroke="black" type="minipage" width="704" height="41.556" depth="11.58" valign="top">\textbf{Examples:}</text>
+<text layer="epsilon" matrix="1 0 0 1 0 -48" transformations="translations" pos="16 592" stroke="black" type="minipage" width="480" height="33.228" depth="3.3" valign="top">\verb|extensions.conf|</text>
+<text layer="zeta" matrix="1 0 0 1 -80 64" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|indications.conf|</text>
+<text layer="eta" matrix="1 0 0 1 -432 -160" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|features.conf|</text>
+<text layer="theta" matrix="1 0 0 1 512 208" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|voicemail.conf|</text>
+<text layer="iota" matrix="1 0 0 1 704 -208" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|modules.conf|</text>
+<text layer="kappa" matrix="1 0 0 1 736 16" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|asterisk.conf|</text>
+<text layer="lambda" matrix="1 0 0 1 80 -64" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="42.372" depth="12.42" valign="top">\verb|(pj)?sip.conf|</text>
+<path layer="mu" stroke="blue" pen="fat">
+600 288 m
+600 208 l
+1024 208 l
+1024 288 l
+h
+</path>
+</page>
+<page title="Connect Phones To Asterisk" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
+<layer name="theta"/>
+<layer name="iota"/>
+<layer name="kappa"/>
+<layer name="lambda"/>
+<layer name="mu"/>
+<layer name="nu"/>
+<layer name="xi"/>
+<layer name="omicron"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu" active="nu"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi" active="xi"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
+<text layer="beta" matrix="1 0 0 1 -8 8" transformations="translations" pos="32 840" stroke="black" type="minipage" width="1576" height="41.556" depth="11.58" valign="top">A \emph{channel} is a connection between a phone and Asterisk.</text>
+<text layer="gamma" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 784" stroke="black" type="minipage" width="1808" height="41.556" depth="11.58" valign="top">Channels are managed by \emph{channel drivers}.</text>
+<text layer="delta" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 712" stroke="black" type="minipage" width="1808" height="44.838" depth="14.94" valign="top">Normally, a channel supports one (VoIP) protocol.</text>
+<text layer="epsilon" matrix="1 0 0 1 -8 0" transformations="translations" pos="32 592" stroke="black" type="minipage" width="1288" height="41.556" depth="11.58" valign="top">\textbf{Some natively supported protocols:}</text>
+<text layer="zeta" transformations="translations" pos="24 520" stroke="black" type="minipage" width="760" height="44.838" depth="14.94" valign="top">IAX (Inter-Asterisk Exchange)</text>
+<text layer="eta" transformations="translations" pos="24 448" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">Skinny (by Cisco)</text>
+<text layer="theta" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 376" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">H.323 (ITU-T)</text>
+<text layer="iota" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 296" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">SIP (RFC 3261)</text>
+<text layer="kappa" matrix="1 0 0 1 0 64" transformations="translations" pos="24 216" stroke="black" type="minipage" width="488" height="71.544" depth="41.7" valign="top">\phantom{H}\dots</text>
+<text layer="lambda" matrix="1 0 0 1 0 -24" transformations="translations" pos="24 128" stroke="black" type="minipage" width="1848" height="41.556" depth="11.58" valign="top">Connection details are saved in files, e.g. \verb|h323.conf| for H.323 phones.</text>
+<path layer="mu" stroke="black" pen="fat" arrow="normal/normal">
+480 256 m
+728 352 l
+</path>
+<text matrix="1 0 0 1 0 -40" transformations="translations" pos="752 424" stroke="black" type="minipage" width="1080" height="42.372" depth="12.42" valign="top">two drivers: \verb|chan_sip| and \verb|chan_pjsip|</text>
+<text layer="nu" transformations="translations" pos="992 296" stroke="black" type="minipage" width="352" height="77.346" depth="47.52" valign="top">2019: only security fixes</text>
+<path stroke="black" pen="heavier" arrow="normal/normal">
+1208 328 m
+1184 304 l
+</path>
+<text layer="xi" matrix="1 0 0 1 -24 0" transformations="translations" pos="1416 296" stroke="black" type="minipage" width="480" height="76.926" depth="47.04" valign="top">active support, not widely spread yet.</text>
+<path stroke="black" pen="heavier" arrow="normal/normal">
+1536 328 m
+1560 304 l
+</path>
+<path layer="omicron" stroke="navy" pen="heavier">
+1056 392 m
+1056 320 l
+1336 320 l
+1336 392 l
+h
+</path>
 </page>
 </ipe>
