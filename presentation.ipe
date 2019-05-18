@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20190214174527" modified="D:20190218142841"/>
+<info created="D:20190214174527" modified="D:20190518153139"/>
 <preamble>\usepackage{fontawesome}
 \usepackage{amsmath}
 \usepackage{csquotes}</preamble>
@@ -744,7 +744,7 @@ nrBjs30zf76GTcSe9UTxPlE0r2C/H4nNhT0cInZWbPdQ//ifxNFpisdPOw+5NOFm63xY6sNO
 sAcp8zYGKt8WubT2+5P80BUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqzv8DzFVPfQ==
 </bitmap>
-<bitmap id="5" width="135" height="130" length="16260" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+<bitmap id="6" width="135" height="130" length="16260" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrtfQdcje3//y3R0s5IQ1IpRSoN2jsqhSRCPFaUHUooSVJEyMjmQRpm9npklFHZJHvTtmfX
 /32du47UOaciz/j+f9frep1X53Sfc9/35319Pu/351o3If9fl8ePH2dkZGzcuDE8PNzPz8/K
 ykpJSUlOTq5t27ZGRkYODg7e3t6jR48ODQ1dsGDB1q1b79y5Q/6v/IZSVlaWmZkJIGJiYkJC
@@ -1048,7 +1048,7 @@ Lrh65unZA/cPgoPWXFm7LGfZwgtxc7Oiws6EB2dMh54ccyRg2KHhA/cP7ru3n+euXp67+/Te
 ow0EHhuLpj7rdFj0ufmweeKV1X/e2JJ2ewdr9jNPz2S/zL5eeP1O6d2nb54WfShCHP63bYDz
 /wDbLbeP
 </bitmap>
-<bitmap id="6" width="4873" height="3249" length="2587180" ColorSpace="DeviceRGB" Filter="DCTDecode" BitsPerComponent="8" encoding="base64">
+<bitmap id="7" width="4873" height="3249" length="2587180" ColorSpace="DeviceRGB" Filter="DCTDecode" BitsPerComponent="8" encoding="base64">
 /9j/4AAQSkZJRgABAQEASABIAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRy
 UkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA
 9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -48961,7 +48961,7 @@ pw+/H9B/OiipZK3RsJ94f7tL/H+IoorlnszsW6LVv/H9R/KvR7D7sf8AwGiioy//AHiJ3y/h
 M6k/8sfoavWf32/H+VFFfpmE+FHhz3+ZcX/Vn6Gp4Pvr+NFFd8xU/iR3em/cP1FbA/1goorn
 ofaOqtsxT1f/AHqmHVvw/lRRTxHwnLDdkD/6w/hVOiivPpbM3kf/2Q==
 </bitmap>
-<bitmap id="7" width="537" height="300" length="25849" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+<bitmap id="8" width="537" height="300" length="25849" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrtvctvXdX5Pv53/Prp7zPoiFHt41KkSDCoMugAqRJCjCJ1kFEkOoBJ4xDiIGF/GlCiggoC
 FAQiDEKLZAbc1EhEFdAoEDWpkAeWQI0gbQYBVQVR4thnb3+fdz1rrb329ezbudnvqyXHOd5n
 77XX5X3We9/dVVJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUposxbFp0W5Uo+Ey
@@ -49442,7 +49442,7 @@ KE4nxtsniSM9nsnD3Hf1XdkzNRcqXjDTuo9Y9Q07PrRa397gJrXHM1T1d5y+qNH0xc18lhoN
 Rf2LW89p+zNY3yszv4kKWuulGI2+bY+MoqEbW/9MaUxcsev+iqfA3pWUlJSUlJSUlJSUlJSU
 lJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJTmlv4fcxNS2w==
 </bitmap>
-<bitmap id="8" width="475" height="600" length="35593" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+<bitmap id="9" width="475" height="600" length="35593" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrsfQd4VFXa/9w7vc8kmWSSSa+TSnojnRYgkNB7Qg2EEggEKYJ0RUGKFJEmINKUXiVrX9dd
 /dRP3L/iWtHFjgVRkfo/cfyy2ZTJ3HvPbTPv73mffXzYZDL33Pf8znveevcuAAAAAACAu7/+
 +uvp06cffvjh6dOnV1dXz5o166GHHnrmmWe+//57WBwAB+r37LPPrl69esaMGdV/YOnSpU8/
@@ -50104,7 +50104,7 @@ YZiEhITq6uq5c+euWbNm7969586dA88DAAD0hxMnTuzbt2/z5s0vvvjiggUL5syZc+edd44Z
 M2b4RUpLS3Mvo7i4uOff33jjjXfccUd9ff38+fOXLFmycePGPXv2HD16FPwJAAAAAAAAAACg
 C/4frZVRvA==
 </bitmap>
-<bitmap id="9" width="800" height="943" length="173583" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+<bitmap id="10" width="800" height="943" length="173583" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
 eNrsnQdUVFf3t9f63hik99577713pBcRCwr2FjUxJsbeNcbYjb13Y4u9G7ElsaFixQaCgg1E
 UEBj9P/tmaP3nRcQYWCAmfyetRdruMwM1zvcex732Xef//s/AAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -53893,58 +53893,59 @@ h
 <layer name="beta"/>
 <layer name="gamma"/>
 <layer name="delta"/>
-<layer name="epsilon"/>
-<layer name="zeta"/>
 <layer name="eta"/>
 <view layers="alpha" active="alpha"/>
 <view layers="alpha beta" active="beta"/>
 <view layers="alpha beta gamma" active="gamma"/>
 <view layers="alpha beta gamma delta" active="delta"/>
-<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
-<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
+<view layers="alpha" active="eta"/>
 <view layers="alpha eta" active="eta"/>
-<text layer="alpha" matrix="1 0 0 1 -16 -16" transformations="translations" pos="48 784" stroke="navy" type="minipage" width="1776" height="70.896" depth="31.12" valign="top" size="Large">VoIP for Everyone: The Asterisk PBX</text>
-<text matrix="1 0 0 1 0 -64" transformations="translations" pos="32 688" stroke="black" type="minipage" width="1056" height="35.748" depth="5.76" valign="top">Fabian Feitsch</text>
-<image matrix="0.918201 -0.396115 0.396115 0.918201 127.6 307.178" rect="678.031 287.518 1177.97 582.482" bitmap="2"/>
+<text layer="alpha" matrix="1 0 0 1 -12.62 -16" transformations="translations" pos="48 784" stroke="navy" type="minipage" width="1776" height="62.456" depth="22.56" valign="top" size="large">VoIP for Everyone:</text>
+<text matrix="1 0 0 1 0 -448" transformations="translations" pos="32 688" stroke="black" type="minipage" width="1056" height="35.748" depth="5.76" valign="top">Fabian Feitsch</text>
+<image matrix="0.918201 -0.396115 0.396115 0.918201 495.6 403.178" rect="678.031 287.518 1177.97 582.482" bitmap="2"/>
 <path layer="beta" fill="white" opacity="75%">
-288 800 m
-288 656 l
-1568 656 l
-1568 800 l
-h
-</path>
-<path fill="white" opacity="75%">
 16 656 m
 16 560 l
 512 560 l
 512 656 l
 h
 </path>
-<path matrix="1 0 0 1 -272 -32" fill="white" opacity="75%">
+<path matrix="1 0 0 1 96 64" fill="white" opacity="75%">
 1264 600 m
 1144 336 l
 1600 144 l
 1712 408 l
 h
 </path>
-<path layer="gamma" stroke="black" pen="ultrafat" arrow="normal/normal">
-72 352 m
--16 568
-24 680 c
+<text layer="gamma" matrix="1 0 0 1 76.4315 629.445" transformations="translations" pos="96 352" stroke="black" type="minipage" width="360" height="35.748" depth="5.76" valign="top">\textbf{V}oice \textbf{o}ver \textbf{IP}</text>
+<text layer="delta" matrix="1 0 0 1 452.603 704" transformations="translations" pos="96 288" stroke="black" type="minipage" width="600" height="113.196" depth="83.4" valign="top"> = umbrella term for many concepts and technologies</text>
+<text layer="alpha" matrix="1 0 0 1 -576 -16" transformations="translations" pos="608 640" stroke="navy" type="minipage" width="1200" height="131.4" depth="91.76" valign="top" size="Large"> The Asterisk Communications Server</text>
+<path layer="beta" matrix="0.888656 0 0 2.14893 -223.723 -1095.14" fill="white" opacity="75%">
+288 800 m
+288 656 l
+1568 656 l
+1568 800 l
+h
 </path>
-<text transformations="translations" pos="96 352" stroke="black" type="minipage" width="360" height="35.748" depth="5.76" valign="top">\textbf{V}oice \textbf{o}ver \textbf{IP}</text>
-<text layer="delta" transformations="translations" pos="96 288" stroke="black" type="minipage" width="600" height="113.196" depth="83.4" valign="top"> = umbrella term for many concepts and technologies</text>
-<path layer="epsilon" stroke="black" pen="ultrafat" arrow="normal/normal">
-1632 456 m
-1672 648 l
+<path matrix="0.854261 0 0 0.777778 -7.50728 161.778" fill="white" opacity="75%">
+288 800 m
+288 656 l
+1568 656 l
+1568 800 l
+h
 </path>
-<text transformations="translations" pos="1400 416" stroke="black" type="minipage" width="408" height="77.346" depth="47.52" valign="top">\textbf{P}rivate \textbf{B}ranch \textbf{E}xchange</text>
-<text layer="zeta" transformations="translations" pos="1400 272" stroke="black" type="minipage" width="432" height="41.556" depth="11.58" valign="top">= Telefonanlage</text>
+</page>
+<page title="Hands On: A simple Intercom" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="beta"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="beta" matrix="1 0 0 1 0 144" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
+<text matrix="1 0 0 1 0 80" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;30,1,Dial(SIP/phone_0815,30)|</text>
+<text matrix="1 0 0 1 0 -56" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;32,1,Dial(SIP/phone_4711,30)|</text>
 </page>
 <page title="Hands On: A Wedding Proposal" section="">
 <layer name="alpha"/>
-<layer name="beta"/>
-<layer name="gamma"/>
 <layer name="delta"/>
 <layer name="epsilon"/>
 <layer name="zeta"/>
@@ -53954,31 +53955,26 @@ h
 <layer name="kappa"/>
 <layer name="lambda"/>
 <view layers="alpha" active="alpha"/>
-<view layers="alpha beta" active="beta"/>
-<view layers="alpha beta gamma" active="gamma"/>
-<view layers="alpha beta gamma delta" active="delta"/>
-<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
-<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
-<text layer="beta" transformations="translations" pos="32 832" stroke="black" type="minipage" width="1792" height="41.556" depth="11.58" valign="top">Upon dialing &quot;55&quot; the caller should hear a wedding proposal.</text>
-<text layer="gamma" matrix="1 0 0 1 0 -40" transformations="translations" pos="32 768" stroke="black" type="minipage" width="1792" height="41.556" depth="11.58" valign="top">We insert the following rule in a configuration file of Asterisk:</text>
-<text layer="delta" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
-<text layer="epsilon" matrix="1 0 0 1 0 -64" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="39.852" depth="9.96" valign="top">\verb|exten=&gt;30,1,Answer()|</text>
-<text layer="zeta" matrix="1 0 0 1 0 -128" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Read(input,marryme,1)|</text>
-<text layer="eta" matrix="1 0 0 1 0 -200" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,GotoIf($[${input}=1],wedding,bridge)|</text>
-<text layer="theta" matrix="1 0 0 1 0 -272" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(wedding),Playback(thank-you-cooperation)|</text>
-<text layer="iota" matrix="1 0 0 1 0 -344" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
-<text layer="kappa" matrix="1 0 0 1 0 -416" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(bridge),Playback(sorry)|</text>
-<text layer="lambda" matrix="1 0 0 1 0 -496" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
+<view layers="alpha delta" active="delta"/>
+<view layers="alpha delta epsilon" active="epsilon"/>
+<view layers="alpha delta epsilon zeta" active="zeta"/>
+<view layers="alpha delta epsilon zeta eta" active="eta"/>
+<view layers="alpha delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<text layer="delta" matrix="1 0 0 1 0 224" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
+<text layer="epsilon" matrix="1 0 0 1 0 160" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="39.852" depth="9.96" valign="top">\verb|exten=&gt;55,1,Answer()|</text>
+<text layer="zeta" matrix="1 0 0 1 0 96" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n,Read(input,marryme,1)|</text>
+<text layer="eta" matrix="1 0 0 1 0 24" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n,GotoIf($[${input}=1],wedding,bridge)|</text>
+<text layer="theta" matrix="1 0 0 1 0 -48" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1696" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n(wedding),Playback(thank-you-cooperation)|</text>
+<text layer="iota" matrix="1 0 0 1 0 -120" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n,Hangup()|</text>
+<text layer="kappa" matrix="1 0 0 1 0 -192" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n(bridge),Playback(sorry)|</text>
+<text layer="lambda" matrix="1 0 0 1 0 -272" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;55,n,Hangup()|</text>
 </page>
 <page title="Configuration of Asterisk" section="">
 <layer name="alpha"/>
 <layer name="beta"/>
-<layer name="gamma"/>
 <layer name="delta"/>
 <layer name="epsilon"/>
 <layer name="zeta"/>
@@ -53990,18 +53986,16 @@ h
 <layer name="mu"/>
 <view layers="alpha" active="alpha"/>
 <view layers="alpha beta" active="beta"/>
-<view layers="alpha beta gamma" active="gamma"/>
-<view layers="alpha beta gamma delta" active="delta"/>
-<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
-<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
+<view layers="alpha beta delta" active="delta"/>
+<view layers="alpha beta delta epsilon" active="epsilon"/>
+<view layers="alpha beta delta epsilon zeta" active="zeta"/>
+<view layers="alpha beta delta epsilon zeta eta" active="eta"/>
+<view layers="alpha beta delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha beta delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha beta delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha beta delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<view layers="alpha beta delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
 <text layer="beta" transformations="translations" pos="16 848" stroke="black" type="minipage" width="1824" height="44.838" depth="14.94" valign="top">Configuration is done (mostly) with dosini-files.</text>
-<text layer="gamma" transformations="translations" pos="16 768" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">My production system has approximately 77 conf-files.</text>
 <text layer="delta" matrix="1 0 0 1 0 -32" transformations="translations" pos="16 704" stroke="black" type="minipage" width="704" height="41.556" depth="11.58" valign="top">\textbf{Examples:}</text>
 <text layer="epsilon" matrix="1 0 0 1 0 -48" transformations="translations" pos="16 592" stroke="black" type="minipage" width="480" height="33.228" depth="3.3" valign="top">\verb|extensions.conf|</text>
 <text layer="zeta" matrix="1 0 0 1 -80 64" transformations="translations" pos="528 336" stroke="black" type="minipage" width="544" height="33.228" depth="3.3" valign="top">\verb|indications.conf|</text>
@@ -54029,7 +54023,6 @@ h
 <layer name="theta"/>
 <layer name="iota"/>
 <layer name="kappa"/>
-<layer name="lambda"/>
 <layer name="mu"/>
 <layer name="nu"/>
 <layer name="xi"/>
@@ -54044,21 +54037,18 @@ h
 <view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu" active="nu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi" active="xi"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa mu" active="mu"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa mu nu" active="nu"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa mu nu xi" active="xi"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa mu nu xi omicron" active="omicron"/>
 <text layer="beta" matrix="1 0 0 1 -8 8" transformations="translations" pos="32 840" stroke="black" type="minipage" width="1576" height="41.556" depth="11.58" valign="top">A \emph{channel} is a connection between a phone and Asterisk.</text>
-<text layer="gamma" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 784" stroke="black" type="minipage" width="1808" height="41.556" depth="11.58" valign="top">Channels are managed by \emph{channel drivers}.</text>
-<text layer="delta" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 712" stroke="black" type="minipage" width="1808" height="44.838" depth="14.94" valign="top">Normally, a channel supports one (VoIP) protocol.</text>
-<text layer="epsilon" matrix="1 0 0 1 -8 0" transformations="translations" pos="32 592" stroke="black" type="minipage" width="1288" height="41.556" depth="11.58" valign="top">\textbf{Some natively supported protocols:}</text>
+<text layer="delta" matrix="1 0 0 1 0 -32" transformations="translations" pos="24 784" stroke="black" type="minipage" width="1072" height="41.556" depth="11.58" valign="top">Channels are managed by \emph{channel drivers}.</text>
+<text layer="epsilon" matrix="1 0 0 1 -8 0" transformations="translations" pos="32 592" stroke="black" type="minipage" width="1288" height="41.556" depth="11.58" valign="top">\textbf{Asterisk ships with many channel drivers:}</text>
 <text layer="zeta" transformations="translations" pos="24 520" stroke="black" type="minipage" width="760" height="44.838" depth="14.94" valign="top">IAX (Inter-Asterisk Exchange)</text>
 <text layer="eta" transformations="translations" pos="24 448" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">Skinny (by Cisco)</text>
 <text layer="theta" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 376" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">H.323 (ITU-T)</text>
 <text layer="iota" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 296" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">SIP (RFC 3261)</text>
 <text layer="kappa" matrix="1 0 0 1 0 64" transformations="translations" pos="24 216" stroke="black" type="minipage" width="488" height="71.544" depth="41.7" valign="top">\phantom{H}\dots</text>
-<text layer="lambda" matrix="1 0 0 1 0 -24" transformations="translations" pos="24 128" stroke="black" type="minipage" width="1848" height="41.556" depth="11.58" valign="top">Connection details are saved in files, e.g. \verb|h323.conf| for H.323 phones.</text>
 <path layer="mu" stroke="black" pen="fat" arrow="normal/normal">
 480 256 m
 728 352 l
@@ -54081,6 +54071,21 @@ h
 1336 392 l
 h
 </path>
+<image layer="gamma" matrix="0.268466 0.00142482 -0.00142482 0.268466 1464.05 713.752" rect="678.031 287.518 1177.97 582.482" bitmap="2"/>
+<text matrix="1 0 0 1 496 72" transformations="translations" pos="1088 448" stroke="black" type="label" width="81.968" height="74.864" depth="6.72" valign="baseline" size="large">\faPhoneSquare{}</text>
+<text matrix="1 0 0 1 672 72" transformations="translations" pos="1088 448" stroke="black" type="label" width="81.968" height="74.864" depth="6.72" valign="baseline" size="large">\faPhoneSquare{}</text>
+<path stroke="black" arrow="normal/normal" rarrow="normal/normal">
+1624 608 m
+1664 784 l
+</path>
+<path stroke="black" arrow="normal/normal" rarrow="normal/normal">
+1736 784 m
+1784 616 l
+</path>
+<path stroke="gray" arrow="normal/normal" rarrow="normal/normal">
+1688 560 m
+1736 560 l
+</path>
 </page>
 <page title="Adding a SIP device" section="">
 <layer name="alpha"/>
@@ -54102,7 +54107,6 @@ h
 <layer name="rho"/>
 <layer name="sigma"/>
 <layer name="tau"/>
-<layer name="phi"/>
 <view layers="alpha" active="alpha"/>
 <view layers="alpha beta" active="beta"/>
 <view layers="alpha beta gamma" active="gamma"/>
@@ -54122,7 +54126,6 @@ h
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho" active="rho"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma" active="sigma"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau" active="tau"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau phi" active="phi"/>
 <text layer="beta" transformations="translations" pos="24 848" stroke="black" type="minipage" width="1792" height="42.372" depth="12.42" valign="top">In \verb|sip.conf| define a SIP client:</text>
 <text layer="gamma" matrix="1 0 0 1 0 24" transformations="translations" pos="32 736" stroke="black" type="minipage" width="896" height="42.372" depth="12.42" valign="top">\verb|[phone_4711]|</text>
 <text layer="eta" matrix="1 0 0 1 -8 -192" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="38.154" depth="8.22" valign="top">\verb|type=peer|</text>
@@ -54130,7 +54133,6 @@ h
 <text layer="epsilon" matrix="1 0 0 1 -8 -72" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|qualify=yes|</text>
 <text layer="zeta" matrix="1 0 0 1 -8 -136" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="33.228" depth="3.3" valign="top">\verb|context=internal|</text>
 <text layer="theta" matrix="1 0 0 1 -8 -256" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|host=dynamic|</text>
-<text layer="phi" matrix="1 0 0 1 -8 -216" transformations="translations" pos="24 368" stroke="black" type="minipage" width="1824" height="71.544" depth="41.7" valign="top">In the SIP phone, these credentials must be entered as well as the IP address of Asterisk.</text>
 <text layer="iota" matrix="1 0 0 1 16 16" transformations="translations" pos="976 752" stroke="black" type="minipage" width="136" height="34.458" depth="4.56" valign="top">\verb|peer|</text>
 <image layer="kappa" matrix="0.268466 0.00142482 -0.00142482 0.268466 808.054 529.752" rect="678.031 287.518 1177.97 582.482" bitmap="2"/>
 <text matrix="1 0 0 1 -80 -168" transformations="translations" pos="1088 448" stroke="black" type="label" width="81.968" height="74.864" depth="6.72" valign="baseline" size="large">\faPhoneSquare{}</text>
@@ -54257,9 +54259,8 @@ context=internal
 </path>
 <text matrix="1 0 0 1 0 -40" transformations="translations" pos="1264 440" stroke="black" type="minipage" width="584" height="71.544" depth="41.7" valign="top">$\Rightarrow$ Contexts can be seen as firewalls.</text>
 </page>
-<page title="Dialplan continued" section="">
+<page title="Extension Patterns ($\neq$ Regex)" section="">
 <layer name="alpha"/>
-<layer name="beta"/>
 <layer name="gamma"/>
 <layer name="delta"/>
 <layer name="epsilon"/>
@@ -54269,12 +54270,37 @@ context=internal
 <layer name="iota"/>
 <layer name="kappa"/>
 <layer name="lambda"/>
-<layer name="mu"/>
-<layer name="nu"/>
-<layer name="xi"/>
-<layer name="omicron"/>
-<layer name="pi"/>
-<layer name="rho"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha gamma" active="gamma"/>
+<view layers="alpha gamma delta" active="delta"/>
+<view layers="alpha gamma delta epsilon" active="epsilon"/>
+<view layers="alpha gamma delta epsilon zeta eta" active="eta"/>
+<view layers="alpha gamma delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha gamma delta epsilon zeta eta theta iota" active="iota"/>
+<view layers="alpha gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
+<view layers="alpha gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
+<text layer="gamma" transformations="translations" pos="32 760" stroke="black" type="minipage" width="1808" height="41.556" depth="11.58" valign="top">\verb|exten =&gt; _0.,1,Answer()| matches any extension starting with 0</text>
+<text layer="delta" matrix="1 0 0 1 0 -64" transformations="translations" pos="32 760" stroke="black" type="minipage" width="1672" height="39.852" depth="9.96" valign="top">\verb|exten =&gt; _01[567].,1,Answer()| matches a mobile number.</text>
+<text layer="epsilon" matrix="1 0 0 1 0 32" transformations="translations" pos="32 560" stroke="black" type="minipage" width="1792" height="35.748" depth="5.76" valign="top">\textbf{Attention:} An extension can also contain letters!</text>
+<path matrix="1 0 0 1 336 0" stroke="red" pen="ultrafat">
+896 648 m
+1304 688 l
+</path>
+<text layer="eta" matrix="1 0 0 1 -8 8" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|X| matches a digit</text>
+<text layer="theta" matrix="1 0 0 1 -8 -56" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|Z| matches a digit from 1 to 9</text>
+<text layer="iota" matrix="1 0 0 1 -8 -128" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|N| matches a digit from 2 to 9</text>
+<text layer="kappa" matrix="1 0 0 1 -8 -192" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|.| matches one or more remaining \emph{characters}</text>
+<text layer="lambda" matrix="1 0 0 1 -8 -256" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|!| matches zero or more remaining \emph{characters}</text>
+</page>
+<page title="Variables and Functions" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
+<layer name="theta"/>
 <view layers="alpha" active="alpha"/>
 <view layers="alpha beta" active="beta"/>
 <view layers="alpha beta gamma" active="gamma"/>
@@ -54283,36 +54309,17 @@ context=internal
 <view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu" active="nu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi" active="xi"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi" active="pi"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho" active="rho"/>
-<text layer="beta" transformations="translations" pos="32 832" stroke="black" type="minipage" width="1752" height="44.838" depth="14.94" valign="top">Asterisk supports extension patterns ($\neq$ Regular Expressions):</text>
-<text layer="gamma" transformations="translations" pos="32 760" stroke="black" type="minipage" width="1808" height="41.556" depth="11.58" valign="top">\verb|exten =&gt; _0.,1,Answer()| matches any extension starting with 0</text>
-<text layer="delta" matrix="1 0 0 1 0 -64" transformations="translations" pos="32 760" stroke="black" type="minipage" width="1672" height="39.852" depth="9.96" valign="top">\verb|exten =&gt; _01[567].,1,Answer()| matches a mobile number.</text>
-<text layer="epsilon" matrix="1 0 0 1 0 64" transformations="translations" pos="32 560" stroke="black" type="minipage" width="1792" height="35.748" depth="5.76" valign="top">\textbf{Attention:} An extension can also contain letters!</text>
-<path layer="zeta" matrix="1 0 0 1 336 0" stroke="red" pen="ultrafat">
-896 648 m
-1304 688 l
-</path>
-<text matrix="1 0 0 1 328 0" transformations="translations" pos="1320 696" stroke="red" type="minipage" width="528" height="41.07" depth="11.16" valign="top">string</text>
-<text layer="eta" transformations="translations" pos="32 512" stroke="black" type="minipage" width="512" height="35.748" depth="5.76" valign="top">\textbf{Channel Variables}</text>
-<text matrix="1 0 0 1 328 0" transformations="translations" pos="1320 696" stroke="red" type="minipage" width="528" height="41.07" depth="11.16" valign="top">string</text>
-<text layer="theta" matrix="1 0 0 1 0 -8" transformations="translations" pos="32 456" stroke="black" type="minipage" width="1728" height="35.748" depth="5.76" valign="top">$\rightarrow$ variables that are valid for the current call.</text>
-<text layer="iota" matrix="1 0 0 1 0 -16" transformations="translations" pos="32 400" stroke="black" type="minipage" width="1816" height="41.556" depth="11.58" valign="top">$\rightarrow$ a lot of variables are pre-set by Asterisk:</text>
-<text layer="kappa" matrix="1 0 0 1 32 24" transformations="translations" pos="152 288" stroke="black" type="minipage" width="168" height="33.228" depth="3.3" valign="top">\verb|EXTEN|</text>
-<text layer="lambda" transformations="translations" pos="392 312" stroke="black" type="minipage" width="232" height="33.228" depth="3.3" valign="top">\verb|CONTEXT|</text>
-<text layer="mu" matrix="1 0 0 1 0 8" transformations="translations" pos="656 312" stroke="black" type="minipage" width="448" height="38.556" depth="8.64" valign="top">\verb|CALLER_ID(num)|</text>
-<text layer="nu" transformations="translations" pos="1160 312" stroke="black" type="minipage" width="408" height="33.228" depth="3.3" valign="top">\verb|EPOCH|</text>
-<text layer="xi" matrix="1 0 0 1 0 80" transformations="translations" pos="1360 304" stroke="black" type="minipage" width="392" height="71.544" depth="41.7" valign="top">\phantom{H}\dots</text>
-<text layer="omicron" matrix="1 0 0 1 0 24" transformations="translations" pos="32 224" stroke="black" type="minipage" width="1560" height="38.214" depth="8.28" valign="top">$\rightarrow$ evaluation of variables with \verb|${   }|:</text>
-<text layer="pi" matrix="1 0 0 1 0 -8" transformations="translations" pos="32 184" stroke="black" type="minipage" width="1832" height="39.852" depth="9.96" valign="top">\verb|exten =&gt; _01[567],1,Set(filtered=${FILTER(0-9,${EXTEN})})|</text>
-<text layer="rho" matrix="1 0 0 1 32 -80" transformations="translations" pos="32 184" stroke="black" type="minipage" width="1832" height="39.852" depth="9.96" valign="top">\verb|same =&gt; n,Dial(SIP/${filtered}@outbound_device)|</text>
+<text layer="beta" matrix="1 0 0 1 -16 312" transformations="translations" pos="32 512" stroke="black" type="minipage" width="1208" height="35.748" depth="5.76" valign="top">\emph{Channel Variables} are valid for current call.</text>
+<text layer="gamma" matrix="1 0 0 1 -16 296" transformations="translations" pos="32 400" stroke="black" type="minipage" width="1816" height="41.556" depth="11.58" valign="top">Many variables are pre-set by Asterisk:</text>
+<text layer="delta" matrix="1 0 0 1 16 336" transformations="translations" pos="152 288" stroke="black" type="minipage" width="168" height="33.228" depth="3.3" valign="top">\verb|EXTEN|</text>
+<text matrix="1 0 0 1 -16 312" transformations="translations" pos="392 312" stroke="black" type="minipage" width="232" height="33.228" depth="3.3" valign="top">\verb|CONTEXT|</text>
+<text matrix="1 0 0 1 -16 320" transformations="translations" pos="656 312" stroke="black" type="minipage" width="448" height="38.556" depth="8.64" valign="top">\verb|CALLER_ID(num)|</text>
+<text matrix="1 0 0 1 -16 312" transformations="translations" pos="1160 312" stroke="black" type="minipage" width="408" height="33.228" depth="3.3" valign="top">\verb|EPOCH|</text>
+<text matrix="1 0 0 1 -16 392" transformations="translations" pos="1360 304" stroke="black" type="minipage" width="392" height="71.544" depth="41.7" valign="top">\phantom{H}\dots</text>
+<text layer="zeta" matrix="1 0 0 1 -16 240" transformations="translations" pos="32 224" stroke="black" type="minipage" width="1560" height="38.214" depth="8.28" valign="top">Evaluation of variables with \verb|${   }|:</text>
+<text layer="eta" matrix="1 0 0 1 -16 192" transformations="translations" pos="32 184" stroke="black" type="minipage" width="1832" height="39.852" depth="9.96" valign="top">\verb|exten =&gt; _01[567].,1,Set(filtered=${FILTER(0-9,${EXTEN})})|</text>
+<text layer="theta" matrix="1 0 0 1 16 120" transformations="translations" pos="32 184" stroke="black" type="minipage" width="1832" height="39.852" depth="9.96" valign="top">\verb|same =&gt; n,Dial(SIP/${filtered}@outbound_device)|</text>
+<text layer="epsilon" matrix="1 0 0 1 -16 144" transformations="translations" pos="32 400" stroke="black" type="minipage" width="1816" height="42.372" depth="12.42" valign="top">Variables can be set with \verb|Set(myvar=42)|.</text>
 </page>
 <page title="More Cool Dialplan Apps" section="">
 <layer name="alpha"/>
@@ -54320,7 +54327,6 @@ context=internal
 <layer name="gamma"/>
 <layer name="delta"/>
 <layer name="epsilon"/>
-<layer name="zeta"/>
 <layer name="eta"/>
 <layer name="theta"/>
 <layer name="iota"/>
@@ -54335,16 +54341,15 @@ context=internal
 <view layers="alpha beta gamma" active="gamma"/>
 <view layers="alpha beta gamma delta" active="delta"/>
 <view layers="alpha beta gamma delta epsilon" active="epsilon"/>
-<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu" active="nu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi" active="xi"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
+<view layers="alpha beta gamma delta epsilon eta" active="eta"/>
+<view layers="alpha beta gamma delta epsilon eta theta" active="theta"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota" active="iota"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa" active="kappa"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa lambda" active="lambda"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa lambda mu" active="mu"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa lambda mu nu" active="nu"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa lambda mu nu xi" active="xi"/>
+<view layers="alpha beta gamma delta epsilon eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
 <text layer="beta" matrix="1.40708 0 0 1.40708 -37.1681 -353.893" transformations="translations" pos="52 804" stroke="black" type="label" width="376.584" height="41.532" depth="13.26" valign="baseline" style="math">\texttt{Set(myvar=3)}</text>
 <text layer="gamma" matrix="1 0 0 1 -316 80" transformations="translations" pos="352 672" stroke="black" type="minipage" width="1104" height="42.372" depth="12.42" valign="top">\verb|Set(result=${Math(${myvar}+4,int})|</text>
 <text layer="delta" matrix="1 0 0 1 0 4" transformations="translations" pos="36 684" stroke="black" type="minipage" width="1484" height="39.852" depth="9.96" valign="top">\verb|Set(GLOBAL(counter)=${Math(${counter}+1,int})|</text>
@@ -54356,11 +54361,11 @@ context=internal
 <text layer="lambda" matrix="1 0 0 1 0 -152" transformations="translations" pos="40 448" stroke="black" type="minipage" width="512" height="42.372" depth="12.42" valign="top">\texttt{Playtones(busy)}</text>
 <text layer="mu" matrix="1 0 0 1 0 24" transformations="translations" pos="40 184" stroke="black" type="minipage" width="1224" height="72.774" depth="42.96" valign="top">\texttt{GotoIf}, \texttt{Goto}, \texttt{Gosub}, \texttt{GosubIf},  \texttt{Return}, \texttt{While},  \texttt{EndWhile}, \texttt{ContinueWhile}, \texttt{ExitWhile}</text>
 <text layer="nu" transformations="translations" pos="40 64" stroke="black" type="minipage" width="1096" height="35.748" depth="5.76" valign="top">\dots a lot more</text>
-<image layer="xi" matrix="0.372909 0 0 0.372909 1247.08 34.5916" rect="275.567 0 1580.43 870" bitmap="6"/>
+<image layer="xi" matrix="0.372909 0 0 0.372909 1247.08 34.5916" rect="275.567 0 1580.43 870" bitmap="7"/>
 <path layer="omicron" fill="lightgray">
 168 136 -424 56 1168 544 e
 </path>
-<text matrix="1 0 0 1 -16 0" transformations="translations" pos="936 640" stroke="black" type="minipage" width="592" height="113.196" depth="83.4" valign="top">\textit{Big pieces of code look sh*tty! Is there no simple way?}</text>
+<text matrix="1 0 0 1 -16 0" transformations="translations" pos="936 640" stroke="black" type="minipage" width="592" height="113.196" depth="83.4" valign="top">\textit{Big pieces are not maintainable! Is there no simple way?}</text>
 <path fill="lightgray">
 40 0 0 40 1336 344 e
 </path>
@@ -54456,7 +54461,6 @@ context=internal
 <view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
 <text layer="beta" matrix="1 0 0 1 1136 0" transformations="translations" pos="16 768" stroke="black" type="minipage" width="480" height="35.748" depth="5.76" valign="top">Conference Rooms</text>
 <text layer="gamma" matrix="1 0 0 1 16 16" transformations="translations" pos="16 768" stroke="black" type="minipage" width="864" height="41.556" depth="11.58" valign="top">Call Queues \&amp; Call Parking</text>
@@ -54479,15 +54483,11 @@ context=internal
 <layer name="kappa"/>
 <layer name="lambda"/>
 <layer name="mu"/>
-<layer name="nu"/>
-<layer name="xi"/>
 <layer name="omicron"/>
-<layer name="pi"/>
 <view layers="alpha" active="alpha"/>
 <view layers="alpha beta" active="beta"/>
 <view layers="alpha beta gamma" active="gamma"/>
 <view layers="alpha beta gamma delta" active="delta"/>
-<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
 <view layers="alpha beta gamma delta epsilon" active="epsilon"/>
 <view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
@@ -54496,24 +54496,21 @@ context=internal
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda" active="lambda"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu" active="mu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu" active="nu"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi" active="xi"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron" active="omicron"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi" active="pi"/>
-<text layer="beta" transformations="translations" pos="16 848" stroke="red" type="minipage" width="1824" height="77.346" depth="47.52" valign="top">I am no security expert, these points are only aspects to consider. This is no guide to absolute security!</text>
-<path stroke="red" pen="ultrafat">
+<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu omicron" active="omicron"/>
+<text layer="beta" matrix="1 0 0 1 1016 120" transformations="translations" pos="16 848" stroke="red" type="minipage" width="824" height="35.748" depth="5.76" valign="top">Just a Guideline -- Use with care!</text>
+<path matrix="0.456897 0 0 0.5 1016 552" stroke="red" pen="ultrafat">
 0 864 m
 0 704 l
 1856 704 l
 1856 864 l
 h
 </path>
-<text layer="eta" matrix="1 0 0 1 0 -128" transformations="translations" pos="16 688" stroke="black" type="minipage" width="432" height="41.556" depth="11.58" valign="top">\textbf{Server Security}</text>
-<text layer="theta" matrix="1 0 0 1 -32 -128" transformations="translations" pos="48 624" stroke="black" type="minipage" width="1632" height="41.556" depth="11.58" valign="top">ssh, open ports, iptables, public IP address, physical access, \dots</text>
-<text layer="gamma" transformations="translations" pos="16 688" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">\textbf{Why care?}</text>
-<text layer="delta" transformations="translations" pos="16 624" stroke="black" type="minipage" width="208" height="41.556" depth="11.58" valign="top">Privacy</text>
-<text layer="epsilon" transformations="translations" pos="288 624" stroke="black" type="minipage" width="496" height="41.556" depth="11.58" valign="top">Server Highjacking</text>
-<text layer="zeta" matrix="1 0 0 1 48 0" transformations="translations" pos="848 624" stroke="black" type="minipage" width="400" height="35.748" depth="5.76" valign="top">\textbf{Toll Fraud}</text>
+<text layer="eta" matrix="1 0 0 1 0 -32" transformations="translations" pos="16 688" stroke="black" type="minipage" width="432" height="41.556" depth="11.58" valign="top">\textbf{Server Security}</text>
+<text layer="theta" matrix="1 0 0 1 -32 -32" transformations="translations" pos="48 624" stroke="black" type="minipage" width="1632" height="41.556" depth="11.58" valign="top">ssh, open ports, iptables, public IP address, physical access, \dots</text>
+<text layer="gamma" matrix="1 0 0 1 0 144" transformations="translations" pos="16 688" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">\textbf{Why care?}</text>
+<text layer="delta" matrix="1 0 0 1 0 144" transformations="translations" pos="16 624" stroke="black" type="minipage" width="208" height="41.556" depth="11.58" valign="top">Privacy</text>
+<text layer="epsilon" matrix="1 0 0 1 0 144" transformations="translations" pos="288 624" stroke="black" type="minipage" width="496" height="41.556" depth="11.58" valign="top">Server Highjacking</text>
+<text layer="zeta" matrix="1 0 0 1 48 144" transformations="translations" pos="848 624" stroke="black" type="minipage" width="400" height="35.748" depth="5.76" valign="top">\textbf{Toll Fraud}</text>
 <text layer="iota" matrix="1 0 0 1 0 -16" transformations="translations" pos="16 432" stroke="black" type="minipage" width="784" height="41.556" depth="11.58" valign="top">\textbf{Asterisk Security}</text>
 <text layer="kappa" matrix="1 0 0 1 0 -16" transformations="translations" pos="16 368" stroke="black" type="minipage" width="704" height="41.556" depth="11.58" valign="top">Malicious client registration</text>
 <path layer="lambda" stroke="darkgreen" pen="ultrafat" arrow="normal/normal">
@@ -54522,57 +54519,7 @@ h
 </path>
 <text matrix="1 0 0 1 0 16" transformations="translations" pos="896 336" stroke="darkgreen" type="minipage" width="960" height="77.346" depth="47.52" valign="top">strong passwords, ACL, firewall, Fail2Ban if IP address is public</text>
 <text layer="mu" matrix="1 0 0 1 0 16" transformations="translations" pos="24 208" stroke="black" type="minipage" width="808" height="41.556" depth="11.58" valign="top">Dialplan Injection</text>
-<text layer="nu" matrix="1 0 0 1 -456 -32" transformations="translations" pos="480 192" stroke="red" type="minipage" width="1344" height="39.852" depth="9.96" valign="top">\verb|exten =&gt;_0N.,1,Dial(SIP/${EXTEN}@outbound}|</text>
-<path layer="xi" matrix="1 0 0 1 624 88" stroke="darkgreen" pen="ultrafat" arrow="normal/normal">
-720 48 m
-864 48 l
-</path>
-<text matrix="1 0 0 1 616 96" transformations="translations" pos="896 64" stroke="darkgreen" type="minipage" width="336" height="41.556" depth="11.58" valign="top">e.g. FILTER</text>
 <text layer="omicron" matrix="1 0 0 1 0 -128" transformations="translations" pos="24 208" stroke="black" type="minipage" width="808" height="41.556" depth="11.58" valign="top">Call Transfering</text>
-<path layer="pi" matrix="1 0 0 1 -280 8" stroke="darkgreen" pen="ultrafat" arrow="normal/normal">
-720 48 m
-864 48 l
-</path>
-<text matrix="1 0 0 1 -288 16" transformations="translations" pos="896 64" stroke="darkgreen" type="minipage" width="608" height="35.748" depth="5.76" valign="top">do not allow it</text>
-</page>
-<page title="Asterisk Security continued" section="">
-<layer name="alpha"/>
-<layer name="beta"/>
-<layer name="gamma"/>
-<layer name="delta"/>
-<layer name="epsilon"/>
-<layer name="zeta"/>
-<layer name="eta"/>
-<layer name="theta"/>
-<layer name="iota"/>
-<layer name="kappa"/>
-<view layers="alpha" active="alpha"/>
-<view layers="alpha beta" active="beta"/>
-<view layers="alpha beta gamma" active="gamma"/>
-<view layers="alpha beta gamma delta" active="delta"/>
-<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
-<view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa" active="kappa"/>
-<text layer="alpha" transformations="translations" pos="16 848" stroke="red" type="minipage" width="1824" height="77.346" depth="47.52" valign="top">I am no security expert, these points are only aspects to consider. This is no guide to absolute security!</text>
-<path stroke="red" pen="ultrafat">
-0 864 m
-0 704 l
-1856 704 l
-1856 864 l
-h
-</path>
-<text layer="beta" matrix="1 0 0 1 -16 0" transformations="translations" pos="32 672" stroke="black" type="minipage" width="960" height="41.556" depth="11.58" valign="top">\textbf{Additonal Aspects to Consider:}</text>
-<text layer="gamma" matrix="1 0 0 1 -16 0" transformations="translations" pos="32 608" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">Expensive Calls are mostly international calls and special numbers.</text>
-<text layer="delta" matrix="1 0 0 1 0 -8" transformations="translations" pos="16 544" stroke="black" type="minipage" width="856" height="41.556" depth="11.58" valign="top">Do they need to be dialed at all?</text>
-<text layer="epsilon" matrix="1 0 0 1 0 -8" transformations="translations" pos="872 544" stroke="black" type="minipage" width="960" height="35.748" depth="5.76" valign="top">\textbf{No} -- Block them.</text>
-<text layer="zeta" matrix="1 0 0 1 0 -16" transformations="translations" pos="16 480" stroke="black" type="minipage" width="752" height="41.556" depth="11.58" valign="top">Restrict international calling:</text>
-<text layer="eta" matrix="1 0 0 1 0 -32" transformations="translations" pos="64 416" stroke="black" type="minipage" width="1272" height="41.556" depth="11.58" valign="top">Use contexts to define permitted numbers.</text>
-<text layer="theta" matrix="1 0 0 1 0 -16" transformations="translations" pos="64 336" stroke="black" type="minipage" width="1720" height="41.556" depth="11.58" valign="top">Ask for a PIN before dialing an international call.</text>
-<text layer="iota" matrix="1 0 0 1 0 -16" transformations="translations" pos="64 272" stroke="black" type="minipage" width="1720" height="41.556" depth="11.58" valign="top">Limit daily international calls.</text>
-<text layer="kappa" transformations="translations" pos="0 128" stroke="black" type="minipage" width="1808" height="41.556" depth="11.58" valign="top">\textbf{Check logs daily for plausibility, check bills monthly.}</text>
 </page>
 <page title="Asterisk&apos;s Ecosystem" section="">
 <layer name="alpha"/>
@@ -54588,10 +54535,10 @@ h
 <view layers="alpha beta gamma delta epsilon" active="epsilon"/>
 <view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
 <image layer="zeta" matrix="1.35653 0 0 1.4029 -996.891 61.5359" rect="821.5 344 1034.5 526" bitmap="1"/>
-<image layer="beta" rect="659.534 285.019 1196.47 584.981" bitmap="7"/>
-<image layer="epsilon" matrix="1.91647 0 0 1.91647 -252.631 -162.228" rect="860.508 370.008 995.492 499.992" bitmap="5"/>
-<image layer="delta" matrix="0.504849 0 0 0.504849 -94.916 2.86397" rect="690.53 135.037 1165.47 734.963" bitmap="8"/>
-<image layer="gamma" matrix="0.527795 0 0 0.522768 1068.47 40" rect="558.965 0 1297.03 870" bitmap="9"/>
+<image layer="beta" rect="659.534 285.019 1196.47 584.981" bitmap="8"/>
+<image layer="epsilon" matrix="1.91647 0 0 1.91647 -252.631 -162.228" rect="860.508 370.008 995.492 499.992" bitmap="6"/>
+<image layer="delta" matrix="0.504849 0 0 0.504849 -94.916 2.86397" rect="690.53 135.037 1165.47 734.963" bitmap="9"/>
+<image layer="gamma" matrix="0.527795 0 0 0.522768 1068.47 40" rect="558.965 0 1297.03 870" bitmap="10"/>
 </page>
 <page title="Closing Remarks" section="">
 <layer name="alpha"/>
@@ -54617,7 +54564,7 @@ h
 <text layer="beta" matrix="1 0 0 1 -16 16" transformations="translations" pos="32 832" stroke="black" type="minipage" width="1632" height="41.556" depth="11.58" valign="top">\textit{\enquote{Programming Asterisk is cumbersome.}}</text>
 <text layer="gamma" matrix="1 0 0 1 0 -32" transformations="translations" pos="16 792" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Editing files is faster than navigating through countless GUI panes.</text>
 <text layer="delta" matrix="1 0 0 1 0 -24" transformations="translations" pos="16 712" stroke="black" type="minipage" width="1864" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Asterisk&apos;s configuration can be well documented.</text>
-<text layer="zeta" matrix="1 0 0 1 0 -120" transformations="translations" pos="16 592" stroke="black" type="minipage" width="1840" height="41.556" depth="11.58" valign="top">\textit{\enquote{Why not use the PBX of the router? There, we get support.}}</text>
+<text layer="zeta" matrix="1 0 0 1 0 -120" transformations="translations" pos="16 592" stroke="black" type="minipage" width="1840" height="41.556" depth="11.58" valign="top">\textit{\enquote{Why not use the PBX of the router? The support is better.}}</text>
 <text layer="eta" matrix="1 0 0 1 0 -104" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="44.838" depth="14.94" valign="top">\textbf{Fact:} Haha \dots (at least for routers by Telekom)</text>
 <text layer="theta" matrix="1 0 0 1 0 -168" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="44.838" depth="14.94" valign="top">\textbf{Fact:} Tons of international forums/blogs/websites about Asterisk.</text>
 <text layer="iota" matrix="1 0 0 1 -8 -112" transformations="translations" pos="24 328" stroke="black" type="minipage" width="1696" height="41.556" depth="11.58" valign="top">\textit{\enquote{One device is easier to handle than separate router and PBX.}}</text>
