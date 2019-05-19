@@ -10,6 +10,9 @@ local function wedding_proposal(ctx,ext)
 	app.hangup()
 end
 
+-- Sample function to demonstrate string concatenation.
+-- Do not use this code in reality because it is hackable
+-- with Dialplan Injection (see FILTER function of Asterisk).
 local function call_to_mobile(ctx, ext)
 	local real_ext = string.sub(ext,2)
 	local call_by_call = "01052"
