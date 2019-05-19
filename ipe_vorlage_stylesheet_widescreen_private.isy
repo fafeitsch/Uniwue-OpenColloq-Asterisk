@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="fafeitsch_widescreen">
-<pagenumberstyle pos="420 -23" size="small" color="white" valign="baseline">Page \arabic{ipePage}/\arabic{ipePages}</pagenumberstyle>
+<pagenumberstyle pos="510 -23" size="small" color="white" valign="baseline">Page \arabic{ipePage}/\arabic{ipePages}</pagenumberstyle>
 <color name="red" value="1 0 0"/>
 <color name="green" value="0 1 0"/>
 <color name="blue" value="0 0 1"/>
@@ -178,7 +178,7 @@
         h
     </path>
     <text pos="0 -23" stroke="white" size="small" valign="baseline">
-        \textcopyright Fabian Feitsch, www.fabian-feitsch.de, 
+        CC BY-SA, Fabian Feitsch, www.fabian-feitsch.de, 
     </text>
     </group>
 </symbol>
