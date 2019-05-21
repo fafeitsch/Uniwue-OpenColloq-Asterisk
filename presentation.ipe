@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20190214174527" modified="D:20190519111334" numberpages="yes"/>
+<info created="D:20190214174527" modified="D:20190521191541" numberpages="yes"/>
 <preamble>\usepackage{fontawesome}
 \usepackage{amsmath}
 \usepackage{csquotes}</preamble>
@@ -56251,7 +56251,7 @@ I am not affiliated with Digium or Sangoma.</text>
 </path>
 <image layer="theta" matrix="0.795436 0 0 0.822626 -632.439 -18.85" rect="821.5 344 1034.5 526" bitmap="1"/>
 <image matrix="0.320294 0 0 0.320294 838.2 432" rect="0 0 680 554" bitmap="8"/>
-<text pos="24 536" stroke="black" type="minipage" width="216" height="50.79" depth="20.94" valign="top">SwitchVox</text>
+<text matrix="1 0 0 1 0 -32" pos="24 536" stroke="black" type="minipage" width="296" height="35.748" depth="5.76" valign="top">SwitchVox</text>
 <path stroke="orange" pen="ultrafat" arrow="normal/normal">
 328 384 m
 216 336 l
@@ -56282,7 +56282,7 @@ I am not affiliated with Digium or Sangoma.</text>
 <text layer="beta" matrix="1 0 0 1 0 144" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
 <text matrix="1 0 0 1 0 80" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;23,1,Dial(SIP/phone_0815,30)|</text>
 <text matrix="1 0 0 1 0 -56" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;22,1,Dial(SIP/phone_4711,30)|</text>
-<text matrix="1 0 0 1 0 -120" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="39.852" depth="9.96" valign="top">\verb|exten=&gt;22,2,VoiceMail(fafeitsch@infosim)|</text>
+<text matrix="1 0 0 1 0 -120" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;22,2,VoiceMail(joe@contoso)|</text>
 <text matrix="1 0 0 1 0 -184" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|exten=&gt;22,3,Hangup()|</text>
 </page>
 <page title="Hands On: A Wedding Proposal" section="">
@@ -56307,7 +56307,7 @@ I am not affiliated with Digium or Sangoma.</text>
 <text layer="delta" matrix="1 0 0 1 0 224" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="38.214" depth="8.28" valign="top">\verb|[internal]|</text>
 <text layer="epsilon" matrix="1 0 0 1 0 160" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="39.852" depth="9.96" valign="top">\verb|exten=&gt;30,1,Answer()|</text>
 <text layer="zeta" matrix="1 0 0 1 0 96" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Read(input,marryme,1)|</text>
-<text layer="eta" matrix="1 0 0 1 0 24" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,GotoIf($[${input}=1],wedding,bridge)|</text>
+<text layer="eta" matrix="1 0 0 1 0 24" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1616" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,GotoIf($[${input}=1]?wedding:bridge)|</text>
 <text layer="theta" matrix="1 0 0 1 0 -48" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1696" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(wedding),Playback(thank-you-cooperation)|</text>
 <text layer="iota" matrix="1 0 0 1 0 -120" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n,Hangup()|</text>
 <text layer="kappa" matrix="1 0 0 1 0 -192" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1584" height="42.372" depth="12.42" valign="top">\verb|same=&gt;n(bridge),Playback(sorry)|</text>
@@ -56385,9 +56385,9 @@ h
 <text layer="beta" matrix="1 0 0 1 -8 8" transformations="translations" pos="32 840" stroke="black" type="minipage" width="1576" height="41.556" depth="11.58" valign="top">A \emph{channel} is a connection between a phone and Asterisk.</text>
 <text layer="delta" matrix="1 0 0 1 0 -32" transformations="translations" pos="24 784" stroke="black" type="minipage" width="1072" height="41.556" depth="11.58" valign="top">Channels are managed by \emph{channel drivers}.</text>
 <text layer="epsilon" matrix="1 0 0 1 -8 0" transformations="translations" pos="32 592" stroke="black" type="minipage" width="1288" height="41.556" depth="11.58" valign="top">\textbf{Asterisk ships with many channel drivers:}</text>
-<text layer="zeta" transformations="translations" pos="24 520" stroke="black" type="minipage" width="760" height="44.838" depth="14.94" valign="top">IAX (Inter-Asterisk Exchange)</text>
-<text layer="eta" transformations="translations" pos="24 448" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">Skinny (by Cisco)</text>
-<text layer="theta" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 376" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">H.323 (ITU-T)</text>
+<text layer="zeta" matrix="1 0 0 1 0 -1.0185" transformations="translations" pos="24 520" stroke="black" type="minipage" width="760" height="44.838" depth="14.94" valign="top">IAX (Inter-Asterisk Exchange)</text>
+<text layer="eta" matrix="1 0 0 1 0 -8.679" transformations="translations" pos="24 448" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">Skinny (by Cisco)</text>
+<text layer="theta" matrix="1 0 0 1 0 -16.3395" transformations="translations" pos="24 376" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">H.323 (ITU-T)</text>
 <text layer="iota" matrix="1 0 0 1 0 -8" transformations="translations" pos="24 296" stroke="black" type="minipage" width="488" height="44.838" depth="14.94" valign="top">SIP (RFC 3261)</text>
 <text layer="kappa" matrix="1 0 0 1 0 64" transformations="translations" pos="24 216" stroke="black" type="minipage" width="488" height="71.544" depth="41.7" valign="top">\phantom{H}\dots</text>
 <path layer="mu" stroke="black" pen="fat" arrow="normal/normal">
@@ -56469,10 +56469,10 @@ h
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau" active="tau"/>
 <text layer="beta" transformations="translations" pos="24 848" stroke="black" type="minipage" width="1792" height="42.372" depth="12.42" valign="top">In \verb|sip.conf| define a SIP client:</text>
 <text layer="gamma" matrix="1 0 0 1 0 24" transformations="translations" pos="32 736" stroke="black" type="minipage" width="896" height="42.372" depth="12.42" valign="top">\verb|[phone_4711]|</text>
-<text layer="eta" matrix="1 0 0 1 -8 -192" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="38.154" depth="8.22" valign="top">\verb|type=peer|</text>
-<text layer="delta" matrix="1 0 0 1 -8 -8" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|secret=super_secret_password|</text>
-<text layer="epsilon" matrix="1 0 0 1 -8 -72" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|qualify=yes|</text>
-<text layer="zeta" matrix="1 0 0 1 -8 -136" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="33.228" depth="3.3" valign="top">\verb|context=internal|</text>
+<text layer="eta" matrix="1 0 0 1 -8 -193.09" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="38.154" depth="8.22" valign="top">\verb|type=peer|</text>
+<text layer="delta" matrix="1 0 0 1 -8 -7.3284" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|secret=super_secret_password|</text>
+<text layer="epsilon" matrix="1 0 0 1 -8 -73.6768" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|qualify=yes|</text>
+<text layer="zeta" matrix="1 0 0 1 -8 -140.025" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="33.228" depth="3.3" valign="top">\verb|context=internal|</text>
 <text layer="theta" matrix="1 0 0 1 -8 -256" transformations="translations" pos="40 696" stroke="black" type="minipage" width="888" height="39.852" depth="9.96" valign="top">\verb|host=dynamic|</text>
 <text layer="iota" matrix="1 0 0 1 16 16" transformations="translations" pos="976 752" stroke="black" type="minipage" width="136" height="34.458" depth="4.56" valign="top">\verb|peer|</text>
 <image layer="kappa" matrix="0.268466 0.00142482 -0.00142482 0.268466 808.054 529.752" rect="678.031 287.518 1177.97 582.482" bitmap="2"/>
@@ -56544,15 +56544,15 @@ h
 <text layer="epsilon" matrix="1 0 0 1 0 -136" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="33.228" depth="3.3" valign="top">\verb|allowtransfer=no|</text>
 <text layer="zeta" transformations="translations" pos="16 552" stroke="black" type="minipage" width="888" height="44.838" depth="14.94" valign="top">\textbf{Security Options (per Phone)}</text>
 <text layer="eta" matrix="1 0 0 1 0 -304" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="33.228" depth="3.3" valign="top">\verb|allowtransfer=no|</text>
-<text layer="theta" matrix="1 0 0 1 0 -360" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="42.372" depth="12.42" valign="top">\verb|deny=0.0.0.0/0.0.0.0|</text>
+<text layer="theta" matrix="1 0 0 1 0 -358.868" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="42.372" depth="12.42" valign="top">\verb|deny=0.0.0.0/0.0.0.0|</text>
 <text layer="iota" matrix="1 0 0 1 0 -432" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="42.372" depth="12.42" valign="top">\verb|permit=192.168.2.0/24|</text>
 <text layer="kappa" transformations="translations" pos="16 240" stroke="black" type="minipage" width="320" height="41.556" depth="11.58" valign="top">\textbf{Templates}</text>
 <text layer="lambda" matrix="1 0 0 1 0 -616" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="42.372" depth="12.42" valign="top">\verb|[internal-phone](!)|</text>
 <text layer="mu" matrix="1 0 0 1 0 -680" transformations="translations" pos="16 784" stroke="black" type="minipage" width="944" height="42.372" depth="12.42" valign="top">\verb|[phone_4711](internal-phone)|</text>
 <text layer="nu" transformations="translations" pos="1064 840" stroke="black" type="minipage" width="736" height="44.838" depth="14.94" valign="top">\textbf{Technical Stuff (Examples)}</text>
 <text layer="xi" matrix="1 0 0 1 1048 -16" transformations="translations" pos="16 784" stroke="black" type="minipage" width="536" height="33.228" depth="3.3" valign="top">\verb|disallow=all|</text>
-<text layer="omicron" matrix="1 0 0 1 1048 -72" transformations="translations" pos="16 784" stroke="black" type="minipage" width="536" height="37.392" depth="7.44" valign="top">\verb|allow=ulaw,alaw|</text>
-<text layer="pi" matrix="1 0 0 1 1048 -128" transformations="translations" pos="16 784" stroke="black" type="minipage" width="536" height="33.228" depth="3.3" valign="top">\verb|dtmfmode=inband|</text>
+<text layer="omicron" matrix="1 0 0 1 1048 -69.232" transformations="translations" pos="16 784" stroke="black" type="minipage" width="536" height="37.392" depth="7.44" valign="top">\verb|allow=ulaw,alaw|</text>
+<text layer="pi" matrix="1 0 0 1 1048 -130.768" transformations="translations" pos="16 784" stroke="black" type="minipage" width="536" height="33.228" depth="3.3" valign="top">\verb|dtmfmode=inband|</text>
 <text layer="rho" matrix="1 0 0 1 8 8" transformations="translations" pos="1056 592" stroke="black" type="minipage" width="680" height="17.436" depth="0" valign="top">...</text>
 </page>
 <page title="The Dialplan Explained" section="">
@@ -56566,7 +56566,7 @@ h
 <view layers="alpha beta gamma" active="gamma"/>
 <view layers="alpha beta delta" active="delta"/>
 <view layers="alpha beta delta epsilon" active="epsilon"/>
-<text layer="beta" matrix="1 0 0 1 0 144" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1112" height="364.734" depth="335.64" valign="top">\begin{verbatim}
+<text layer="beta" matrix="1 0 0 1 0 144" transformations="translations" pos="32 616" stroke="black" type="minipage" width="1192" height="364.734" depth="335.64" valign="top">\begin{verbatim}
 [internal]
 exten=&gt;30,1,Dial(SIP/phone_4711)
 same=&gt;n,HangUp()
@@ -56627,11 +56627,11 @@ context=internal
 896 648 m
 1304 688 l
 </path>
-<text layer="eta" matrix="1 0 0 1 -8 8" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|X| matches a digit</text>
-<text layer="theta" matrix="1 0 0 1 -8 -56" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|Z| matches a digit from 1 to 9</text>
-<text layer="iota" matrix="1 0 0 1 -8 -128" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|N| matches a digit from 2 to 9</text>
-<text layer="kappa" matrix="1 0 0 1 -8 -192" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|.| matches one or more remaining \emph{characters}</text>
-<text layer="lambda" matrix="1 0 0 1 -8 -256" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|!| matches zero or more remaining \emph{characters}</text>
+<text layer="eta" matrix="1 0 0 1 -8 -72" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|X| matches a digit</text>
+<text layer="theta" matrix="1 0 0 1 -8 -138" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|Z| matches a digit from 1 to 9</text>
+<text layer="iota" matrix="1 0 0 1 -8 -204" transformations="translations" pos="32 488" stroke="black" type="minipage" width="992" height="41.556" depth="11.58" valign="top">\verb|N| matches a digit from 2 to 9</text>
+<text layer="kappa" matrix="1 0 0 1 -8 -270" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|.| matches one or more remaining \emph{characters}</text>
+<text layer="lambda" matrix="1 0 0 1 -8 -336" transformations="translations" pos="32 488" stroke="black" type="minipage" width="1264" height="41.556" depth="11.58" valign="top">\verb|!| matches zero or more remaining \emph{characters}</text>
 </page>
 <page title="Variables and Functions" section="">
 <layer name="alpha"/>
@@ -56880,13 +56880,13 @@ h
 <view layers="alpha beta gamma delta epsilon" active="epsilon"/>
 <view layers="alpha beta gamma delta epsilon zeta" active="zeta"/>
 <view layers="alpha beta gamma delta epsilon zeta eta" active="eta"/>
-<view layers="alpha beta gamma delta epsilon zeta eta theta" active="theta"/>
+<view layers="alpha beta gamma delta epsilon zeta eta theta" active="alpha"/>
 <view layers="alpha beta gamma delta epsilon zeta eta theta iota" active="iota"/>
 <text layer="beta" matrix="1 0 0 1 -24 -120" transformations="translations" pos="32 832" stroke="black" type="minipage" width="1632" height="41.556" depth="11.58" valign="top">\textit{\enquote{Programming Asterisk is cumbersome.}}</text>
 <text layer="gamma" matrix="1 0 0 1 -8 -168" transformations="translations" pos="16 792" stroke="black" type="minipage" width="1824" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Editing files is faster than navigating through countless GUI panes.</text>
-<text layer="delta" matrix="1 0 0 1 -8 -160" transformations="translations" pos="16 712" stroke="black" type="minipage" width="1864" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Asterisk&apos;s configuration can be well documented.</text>
+<text layer="delta" matrix="1 0 0 1 -8 -156" transformations="translations" pos="16 712" stroke="black" type="minipage" width="1864" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Asterisk&apos;s configuration can be well documented.</text>
 <text layer="zeta" matrix="1 0 0 1 0 -312" transformations="translations" pos="16 592" stroke="black" type="minipage" width="1840" height="41.556" depth="11.58" valign="top">\textit{\enquote{Why not use the PBX of the router? The support is better.}}</text>
-<text layer="eta" matrix="1 0 0 1 0 -296" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="44.838" depth="14.94" valign="top">\textbf{Fact:} Haha \dots (at least for routers by Telekom)</text>
+<text layer="eta" matrix="1 0 0 1 0 -288.679" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="44.838" depth="14.94" valign="top">\textbf{Fact:} Haha \dots (at least for routers by Telekom)</text>
 <text layer="theta" matrix="1 0 0 1 0 -360" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="44.838" depth="14.94" valign="top">\textbf{Fact:} Tons of international forums/blogs/websites about Asterisk.</text>
 <text layer="epsilon" matrix="1 0 0 1 -8 -224" transformations="translations" pos="16 712" stroke="black" type="minipage" width="1864" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Text files can easily be version-controlled.</text>
 <text layer="iota" matrix="1 0 0 1 0 -424" transformations="translations" pos="16 504" stroke="black" type="minipage" width="1736" height="41.556" depth="11.58" valign="top">\textbf{Fact:} Routers are often artificially limited.</text>
